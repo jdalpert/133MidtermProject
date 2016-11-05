@@ -10,3 +10,23 @@ body {
   margin: 0;
   font-family: 'ProximaNova';
 }
+
+@media screen and (max-width: 600px){
+  img{
+    width: 200px;
+    height: 200px;
+  }
+}
+
+@media screen and (max-width: 525px){
+  img{
+    width: 70%;
+    height: 70%;
+  }
+
+}
+@media screen and (max-width: 356px){
+  h1{
+    font-size: 2em;
+  }
+}
