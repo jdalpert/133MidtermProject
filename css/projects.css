@@ -1,0 +1,44 @@
+.body-projects{
+  background: #8e9eab;
+  background: -webkit-linear-gradient(to left, #63FE96, #C0FAE2); 
+  background: linear-gradient(to left, #63FE96, #C0FAE2); 
+}
+
+.projects {
+  display: flex;
+  flex-direction: column;
+  min-height: 100%;
+}
+
+.projects-description{
+  border-radius: 5px;
+  margin: 12px;
+  width: 98%;
+  background-color: #333333;
+}
+
+.projects-description>h1{
+  font-weight: bolder; 
+  text-align: center;
+  color: white;
+}
+
+.projects-list{
+  display: flex;
+  flex-direction: column;
+  flex-wrap: wrap;
+}
+
+.project-img {
+  height: 315px;
+  width: 560px;
+}
+
+.project-description{
+  display: inline-block;
+  text-align: center;
+}
+
+.project-text{
+  color: white;
+}

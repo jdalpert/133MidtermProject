@@ -1,0 +1,33 @@
+.body-contact{
+  background: #8e9eab;
+  background: -webkit-linear-gradient(to left, #FBA528, #FECC83); 
+  background: linear-gradient(to left, #FBA528, #FECC83); 
+}
+
+.contact {
+  display: flex;
+  flex-direction: column;
+  min-height: 100%;
+}
+
+.contact-description{
+  border-radius: 5px;
+  margin: 12px;
+  width: 98%;
+  background-color: #333333;
+}
+
+.contact-description>h1{
+  font-weight: bolder; 
+  text-align: center;
+  color: white;
+}
+
+.contact-description>p{
+  text-align: center;
+  color: white;
+}
+
+.media-icon {
+  color: #0274b3
+}
