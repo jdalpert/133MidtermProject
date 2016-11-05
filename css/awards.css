@@ -18,13 +18,19 @@
   color: white;
 }
 
-.awards-description>p{
-  text-align: center;
+.awards-description>ul>li{
   color: white;
+  font-size: 20px;
+}
+
+.awards-description>ul>li>b{
+  color: gold;
 }
 
 .awards-img{
   padding: 8px;
+  height: 460px;
+  width: 300px;
 }
 
 .awards-img-container{

@@ -29,14 +29,14 @@
   flex-wrap: wrap;
 }
 
-.project-img {
-  height: 315px;
-  width: 560px;
-}
-
 .project-description{
   display: inline-block;
   text-align: center;
+}
+
+.project-img {
+  height: 315px;
+  width: 560px;
 }
 
 .project-text{
