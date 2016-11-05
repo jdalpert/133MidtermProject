@@ -42,3 +42,9 @@
 .project-text{
   color: white;
 }
+
+@media screen and (max-width: 1000px){
+	.project-description{
+		font-size: 30px;
+	}
+}
