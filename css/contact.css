@@ -31,3 +31,9 @@
 .media-icon {
   color: #0274b3
 }
+
+@media screen and (max-width: 1000px){
+  p {
+    font-size: 30px;   
+  }
+}

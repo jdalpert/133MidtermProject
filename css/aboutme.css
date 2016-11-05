@@ -62,3 +62,9 @@
   color: #111;
   cursor: pointer;
 }
+
+@media screen and (max-width: 1000px){
+  .aboutme {
+    flex-direction: column-reverse;
+  }
+}

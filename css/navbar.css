@@ -75,4 +75,27 @@
   .navitem {
     font-size: 30px;
   }
+
+  .name-header{
+    font-size: 30px;
+  }
+
+  .title-header{
+    display: none;
+  }
+}
+
+
+@media screen and (max-width: 500px){
+  .navitem {
+    font-size: 30px;
+  }
+
+  .name-header{
+    display: none;
+  }
+
+  .title-header{
+    display: none;
+  }
 }
