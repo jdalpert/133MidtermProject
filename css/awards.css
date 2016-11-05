@@ -63,4 +63,8 @@
 	.awards-img-container{
 	   width: 98%;
 	}
+
+	.awards-description>ul>li{
+  	   font-size: 30px;
+	}
 }
