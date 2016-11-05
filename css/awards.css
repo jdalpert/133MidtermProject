@@ -56,4 +56,11 @@
 	.awards {
 	  flex-direction: column;
 	}
+	.awards-description{
+	   width: 98%;
+	}
+
+	.awards-img-container{
+	   width: 98%;
+	}
 }

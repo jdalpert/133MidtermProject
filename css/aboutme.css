@@ -67,4 +67,12 @@
   .aboutme {
     flex-direction: column-reverse;
   }
+
+  .aboutme-description{
+    width: 98%;
+  }
+
+  .aboutme-slideshow{
+    width: 98%;
+  }
 }
