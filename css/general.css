@@ -25,8 +25,3 @@ body {
   }
 
 }
-@media screen and (max-width: 356px){
-  h1{
-    font-size: 2em;
-  }
-}
