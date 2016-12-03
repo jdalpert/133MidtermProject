@@ -55,10 +55,19 @@
 .final-img {
   padding-left: 20px;
   padding-right: 20px;
+  margin-top: 0;
   height: 200px;
   width: 350px;
 }
 
 .final-summary{
   margin-bottom: 0;
+}
+
+.final-summary-content>p{
+  width: 96%;
+  color: white;
+  margin-top: 0;
+  padding-left: 20px;
+  padding-right: 20px;
 }
